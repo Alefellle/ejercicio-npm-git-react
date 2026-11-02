@@ -7,9 +7,12 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-#node_modules  porque pesa mucho y haria mas lento el repositorio
-#dist para evitar que se suba i evite conflictos en git 
-#dist-ssr mas de lo mismo que dist y pporque tiene el codigo final de la aplicacion 
+node_modules  
+#porque pesa mucho y haria mas lento el repositorio
+dist 
+#para evitar que se suba i evite conflictos en git 
+dist-ssr 
+#mas de lo mismo que dist y pporque tiene el codigo final de la aplicacion 
 *.local
 
 # Editor directories and files
