@@ -1,16 +1,18 @@
-# React + Vite
+## Imagen de las actividades 
+![imagen de actividad 4](/imagenes/captura%20parte%204.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+![imagen de actividad 5](/imagenes/captura%20parte%205.png)
 
-Currently, two official plugins are available:
+![imagen de actividad 5.2](/imagenes/captura%20parte%205.2.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![imagen de actividad 6](/imagenes/ejercicio6.png)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the Oxlint configuration
+## Respuesta de la pregunta 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+
+Si la carpeta node_modules/ está excluida, ¿borrar una dependencia hace alguna acción sobre el repositorio? ¿Cuál?
+
+
+-no hace ningun cambio sobre ningun repositorio si esta bien excluido  , nunguno ya que no hace nada 
