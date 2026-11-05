@@ -15,4 +15,4 @@
 Si la carpeta node_modules/ está excluida, ¿borrar una dependencia hace alguna acción sobre el repositorio? ¿Cuál?
 
 
--no hace ningun cambio sobre ningun repositorio si esta bien excluido  , nunguno ya que no hace nada 
+- No hace ningun cambio sobre ningun repositorio si esta bien excluido ,ninguno ya que no hace nada 
